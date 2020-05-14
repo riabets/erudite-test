@@ -1,4 +1,5 @@
-# erudite-test
+
+<a href="https://riabets.github.io/erudite-test/">Link to built repository</a>
 
 ## Project setup
 ```
